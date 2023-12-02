@@ -1,5 +1,5 @@
 import math
-print("Równanie w postaci a*x*2 + bx + c == 0")
+print("Równanie w postaci a*x^2 + bx + c == 0")
 a = float(input("podaj a:"))
 b = float(input("Podaj b: "))
 c = float(input("Podaj c: "))
